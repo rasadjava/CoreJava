@@ -20,6 +20,7 @@ public class SendMail {
 	// toMailList.add("prasad.ba@hcl.com");
 	// SendMail.Sendmail(toMailList, "https://localhost:8080:PrasadProject");
 	// }
+	//kiran modified file
 
 	public static void Sendmail(List<String> recipientslist, String Maillink) {
 		final String From = "techfortdummy@gmail.com";
